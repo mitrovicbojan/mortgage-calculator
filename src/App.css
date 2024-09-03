@@ -38,3 +38,15 @@ The designs were created to the following widths:
 - Weights: 500, 700
 
 */
+
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20rem;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
